@@ -1,6 +1,6 @@
 # Will Thompson
 
-For seven years at Threekit I've been someone to figure out what a customer actually needs, then builds the thing that proves we can do it. Sometimes that's a sales call, sometimes a trade-show booth, and sometimes it's on stage at a conference. These days it mostly means AI agents that can quote and recommend complex products using the [Threekit](https://www.threekit.com/) platform.
+For seven years at Threekit I've been figuring out what a customer needs, and building the thing that proves we can do it. Sometimes that's a sales call, sometimes a trade-show booth, and sometimes it's on stage at a conference. These days it mostly means AI agents that can quote and recommend complex products using the [Threekit](https://www.threekit.com/) platform.
 
 ## What I'm working on now
 
